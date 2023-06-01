@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<title>Lesson 1 Exercise</title>
+  </head>
+  <body>
+    <button>
+      Click
+    </button>
+    
+    <p>
+    </p>
+    
+    <button>
+      Razin
+    </button> 
+    
+    <button>
+      pizza
+    </button>
+    
+    <p>
+      Hello, World?
+    </p>
+    
+    <p>
+      Today, I went to work
+    </p>
+    
+    <a href="https://twitter.com/home" target="_blank">
+      Link to twitter
+     </a>
+  </body>
+</html>
+
